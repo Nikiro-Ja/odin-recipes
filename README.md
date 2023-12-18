@@ -1,0 +1,1 @@
+The purpose of this project is to create a recipe website and thus demonstrate my understanding of HTML, Git command line, 
